@@ -1,0 +1,64 @@
+html {
+  box-sizing: border-box;
+  height: 100%;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  
+  
+  /* Código para poner un cursor personalizado*/
+ /* cursor: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/9632/heart.png"), auto; */
+
+}
+
+
+h2 {
+  font-size: 1.1em;
+}
+
+#contenedor {
+  margin: auto 1em;
+  text-align: center;
+
+}
+
+#tituloPagina {
+  margin-top: 1em;
+  margin-bottom: 0;
+  font-family: sans-serif;
+}
+
+#foto {
+ height: 300px;
+  border: #ff7300 solid 5px;
+  margin-top: 15px;
+}
+
+.tituloPrediccion {
+  font-size: 2em;
+}
+
+.prediccion {
+  font-size: 1.5em;
+}
+
+.prediccion::first-letter {
+  text-transform: uppercase;
+}
+
+#boton {
+  font-size: 0.9em;
+  background-color: #3d00fdb5;
+  color: white;
+  margin-bottom: 2em;
+  cursor: pointer;
+}

@@ -1,2 +1,3 @@
-# base-bot
-Base para bot css + html + js
+# Bot poeta
+
+Una plantilla para crear un bot poeta o compositor con html + css + js.
