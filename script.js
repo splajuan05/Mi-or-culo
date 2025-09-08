@@ -1,17 +1,59 @@
 // Crear las listas de imágenes, títulos y frases
 const imagenes = [
-  "https://www.postposmo.com/wp-content/uploads/2020/09/Especies-end%C3%A9micas-de-colombia-3.jpg",
-  "https://www.postposmo.com/wp-content/uploads/2020/09/Especies-end%C3%A9micas-de-colombia-4.jpg",
-];
+  "https://travelguide-marrakech.com/wp-content/uploads/2020/03/Marrakech-Holiday.jpg",
+  "https://cdn-0.thegoodlifewithiq.com/wp-content/uploads/2019/10/Bali-Ubud-51.jpg",
+  "https://static.wixstatic.com/media/1078b4_e6eab32c…o/1078b4_e6eab32c64934ae1931363c2fcc32540~mv2.png",
+  "	https://shewandersabroad.com/wp-content/uploads/2024/11/Movich-Hotel-Cartagena-1b.jpg",
+  "https://www.la-provenza.es/wp-content/uploads/2022/07/montecarlo-monaco-costa.jpg",
+  "https://media.digitalnomads.world/wp-content/uploads/2021/03/20120553/tallinn-digital-nomads.jpg",
+  "	https://www.santorini-secret.com/wp-content/uploads/2022/09/Santorini_Header.jpg",
+  "https://stories.weroad.es/wp-content/uploads/2019/10/Giordania-9.jpg",
+  "https://www.discovertravelnews.com/wp-content/uploads/2016/11/reikiavik_1.jpg",
+  "https://www.chinawestdrive.com/wp-content/uploads/2024/08/popular-destinations-lhasa-cover.jpg",
+  "https://www.destinazioneasia.com/media/images/Chiang%20Mai%203_1.png",
+  "https://www.tanzaniatourism.com/images/uploads/Zanzibar_Island_Stone_Town_01.jpg",
+  
+]
 
 const titulos = [
-  "Tortuga morrocoy",
-  "Ranita venenosa",
+  "Aries - Marrakech, Marruecos",
+  "Tauro – Ubud, Indonesia",
+  "Géminis – Hanoi, Vietnam",
+  "Cáncer – Cartagena de Indias, Colombia",
+  "Leo – Montecarlo, Mónaco",
+  "Virgo – Tallin, Estonia",
+  "Libra – Santorini, Grecia",
+  "Escorpio – Petra, Jordania",
+  "Sagitario – Reikiavik, Islandia",
+  "Capricornio – Lhasa, Tíbet",
+  "Acuario – Chiang Mai, Tailandia",
+  "Piscis – Zanzíbar, Tanzania",
 ];
 
 const frases = [
-  "Te alimentas de plantas, frutas, hojas y flores. Vives en bosques de climas cálidos y prefieres la tierra que el agua.",
-  "Eres pequeña pero tu extravagancia no pasa desapercibida. Vives en bosques húmedos y lluviosos y tienes veneno en la piel.",
+  "Eres fuego y movimiento, vibras entre mercados caóticos, especias intensas y colores vivos que nunca dejan descansar a la mirada.",
+
+"Respiras calma entre arrozales y templos sagrados, te alimentas de aromas, masajes y la tierra fértil que todo lo nutre.",
+
+"Rápida y ruidosa, llena de voces y motos que se cruzan, tu encanto está en el caos que se transforma en mil historias al mismo tiempo.",
+
+"Eres cálida y nostálgica, guardas recuerdos en tus murallas y acaricias con brisa marina cada rincón pintado de color.",
+
+"Brillas con lujo y exceso, prefieres el oro, las luces y los escenarios donde ser visto es parte de tu esencia.",
+
+"Ordenada y detallista, escondes tu belleza medieval en calles limpias y discretas, observas más de lo que muestras.",
+
+"Eres equilibrio entre el azul profundo y el blanco puro, te mueves al ritmo del romance y la estética perfecta.",
+
+"Guardas secretos en la roca, misteriosa y magnética, revelas tu belleza solo a quienes se atreven a entrar en tus sombras.",
+
+"Eres aventura y naturaleza indomable, brillas con auroras y mares helados donde el viaje nunca termina.",
+
+"Altiva y espiritual, habitas en la cima del mundo, tu fuerza es disciplina, tradición y la calma de las montañas.",
+
+"Alternativa y diversa, respiras entre templos, mercados y comunidades creativas, te reinventas en cada esquina.",
+
+"Eres isla soñadora bañada por aguas turquesa, te pierdes entre especias, arenas suaves y la calma infinita del mar.",
 ];
 
 // Trae los elementos del HTML que tienen ese id
