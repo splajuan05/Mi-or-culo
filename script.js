@@ -2,7 +2,7 @@
 const imagenes = [
   "https://travelguide-marrakech.com/wp-content/uploads/2020/03/Marrakech-Holiday.jpg",
   "https://cdn-0.thegoodlifewithiq.com/wp-content/uploads/2019/10/Bali-Ubud-51.jpg",
-  "https://static.wixstatic.com/media/1078b4_e6eab32c…o/1078b4_e6eab32c64934ae1931363c2fcc32540~mv2.png",
+  "https://cms.getnomad.app/uploads/lg_avif_x2_vnpphoduongtauhanoi9_d9667255d5.avif",
   "	https://shewandersabroad.com/wp-content/uploads/2024/11/Movich-Hotel-Cartagena-1b.jpg",
   "https://www.la-provenza.es/wp-content/uploads/2022/07/montecarlo-monaco-costa.jpg",
   "https://media.digitalnomads.world/wp-content/uploads/2021/03/20120553/tallinn-digital-nomads.jpg",
